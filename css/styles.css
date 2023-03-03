@@ -46,27 +46,11 @@
     color: #4D5AE5;
 }
 .adress{
-    font-style: normal;
-}
-.heheader-adress,
-.link-malito{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+    font-style: normal; 
 }
 
-.link-malito:hover,
-.link-malito:focus{
-    color: #404BBF;;
-}
-
-.link-malito:active{
-    color: #4D5AE5;
-}
-.heheader-adress,
 .link-tel{
+    list-style: none;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -176,7 +160,7 @@
 
 
 .choice-btn{
-    font-family: 'Roboto'serif;
+    font-family: 'Roboto'sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
